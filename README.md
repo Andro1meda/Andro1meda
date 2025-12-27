@@ -54,7 +54,7 @@ with a focus on **clean analysis, clear visuals, and real-world insights** ✨
 🎀 **Pet Ownership, Mental Health, and Well-Being**  
 ⋆ This project looks at investigating whether pet ownership (cats vs, dogs) has an effect on well-being at the population level, and whether there is an effect when looking at clinical measurements of Anxiety, Depression and Suicidal Behaviours Risk ⋆  
 ✨ skills: EDA, visualisation, regression  
-🔗 [view project(https://github.com/Andro1meda/pet-ownership-and-wellbeing)]
+🔗 [view project](https://github.com/Andro1meda/pet-ownership-and-wellbeing)
 
 🎀 **Project Title**  
 ⋆ short explanation of insights & impact ⋆  
