@@ -56,15 +56,7 @@ with a focus on **clean analysis, clear visuals, and real-world insights** ✨
 ✨ skills: EDA, visualisation, regression  
 🔗 [view project](https://github.com/Andro1meda/pet-ownership-and-wellbeing)
 
-🎀 **Project Title**  
-⋆ short explanation of insights & impact ⋆  
-✨ skills: data cleaning, modelling  
-🔗 [view project](LINK)
-
-🎀 **Project Title**  
-⋆ real-world application or research focus ⋆  
-✨ skills: time series, forecasting  
-🔗 [view project](LINK)
+🎀 More projects to come...
 
 ---
 
@@ -90,14 +82,14 @@ with a focus on **clean analysis, clear visuals, and real-world insights** ✨
 ## 📁 portfolio structure 📁
 
 ```text
-📦 data-analytics-portfolio
+📦 data-analysis-portfolio
  ┣ 📂 projects
  ┃ ┣ 📂 project-1
  ┃ ┃ ┣ 📄 README.md
- ┃ ┃ ┣ 📄 analysis.R
+ ┃ ┃ ┣ 📄 analysis.py
  ┃ ┃ ┗ 📂 outputs
- ┃ ┣ 📂 project-2
- ┃ ┗ 📂 project-3
+ ┃ ┣ 📂 project-2(coming soon)
+ ┃ ┗ 📂 project-3(coming soon)
  ┣ 📂 data
  ┣ 📂 scripts
  ┗ 📄 README.md
