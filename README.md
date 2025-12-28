@@ -51,9 +51,16 @@ with a focus on **clean analysis, clear visuals, and real-world insights** ✨
 
 ## 💻 featured projects 💻
 
+🎀 **Policing in Practice: Investigating Police Conduct and Civilian Response Through Body-Worn Video**
+* This project is Master's Dissertation, working with the Lancashire Constabulary to explore how procedural justice, maladaptive behaviours, and procedural adherence influence 
+citizen behaviour in real-world situations. *
+✨ skills: behavioural coding, data cleaning, first-order markov chain, visualisation
+🔗 [view project](LINK)
+
+
 🎀 **Pet Ownership, Mental Health, and Well-Being**  
-⋆ This project looks at investigating whether pet ownership (cats vs, dogs) has an effect on well-being at the population level, and whether there is an effect when looking at clinical measurements of Anxiety, Depression and Suicidal Behaviours Risk ⋆  
-✨ skills: EDA, visualisation, regression  
+⋆ This project looks at investigating whether pet ownership (cats vs, dogs) has an effect on well-being at the population level, and whether there is an effect when looking at clinical measurements of Anxiety, Depression and Suicidal Behaviours Risk. ⋆  
+✨ skills: EDA, visualisation, regression, correlation  
 🔗 [view project](https://github.com/Andro1meda/pet-ownership-and-wellbeing)
 
 🎀 More projects to come...
