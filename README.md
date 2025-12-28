@@ -81,9 +81,12 @@ with a focus on **clean analysis, clear visuals, and real-world insights** ✨
 
 ## 💌 Contact 💌
 🌸 Name: Andrea Mosqueda-Jolly
+
 🎀 Email: Amosqueda-Jolly@outlook.com
+
 ☁︎ LinkedIn: https://www.linkedin.com/in/andrea-mosqueda-jolly-2a5069292/
+
 🌷 Github: Andro1meda
 
 ---
-🌷 Thank you for visiting <3
+🌷 Thank you for visiting
