@@ -51,11 +51,11 @@ with a focus on **clean analysis, clear visuals, and real-world insights** ✨
 
 ## 💻 featured projects 💻
 
-🎀 **Policing in Practice: Investigating Police Conduct and Civilian Response Through Body-Worn Video**
-* This project is Master's Dissertation, working with the Lancashire Constabulary to explore how procedural justice, maladaptive behaviours, and procedural adherence influence 
-citizen behaviour in real-world situations. *
-✨ skills: behavioural coding, data cleaning, first-order markov chain, visualisation
-🔗 [view project](LINK)
+🎀 **Policing in Practice: Investigating Police Conduct and Civilian Response Through Body-Worn Video**  
+⋆ This project is Master's Dissertation, working with the Lancashire Constabulary to explore how procedural justice, maladaptive behaviours, and procedural adherence influence 
+citizen behaviour in real-world situations ⋆  
+✨ skills: behavioural coding, data cleaning, first-order markov chain, visualisation  
+🔗 [view project](LINK) 
 
 
 🎀 **Pet Ownership, Mental Health, and Well-Being**  
