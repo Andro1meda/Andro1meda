@@ -79,17 +79,11 @@ with a focus on **clean analysis, clear visuals, and real-world insights** ✨
 
 ✦ ───────── ✦ ───────── ✦
 
-## 📁 portfolio structure 📁
+## 💌 Contact 💌
+🌸 Name: Andrea Mosqueda-Jolly
+🎀 Email: Amosqueda-Jolly@outlook.com
+☁︎ LinkedIn: https://www.linkedin.com/in/andrea-mosqueda-jolly-2a5069292/
+🌷 Github: Andro1meda
 
-```text
-📦 data-analysis-portfolio
- ┣ 📂 projects
- ┃ ┣ 📂 project-1
- ┃ ┃ ┣ 📄 README.md
- ┃ ┃ ┣ 📄 analysis.py
- ┃ ┃ ┗ 📂 outputs
- ┃ ┣ 📂 project-2(coming soon)
- ┃ ┗ 📂 project-3(coming soon)
- ┣ 📂 data
- ┣ 📂 scripts
- ┗ 📄 README.md
+---
+🌷 Thank you for visiting <3
