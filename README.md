@@ -63,7 +63,7 @@ citizen behaviour in real-world situations ⋆
 ✨ skills: EDA, visualisation, regression, correlation  
 🔗 [view project](https://github.com/Andro1meda/pet-ownership-and-wellbeing)
 
-🎀 More projects to come...
+🎀 _More projects to come_...
 
 ---
 
