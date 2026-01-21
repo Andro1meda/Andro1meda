@@ -55,7 +55,7 @@ with a focus on **clean analysis, clear visuals, and real-world insights** ✨
 ⋆ This project is Master's Dissertation, working with the Lancashire Constabulary to explore how procedural justice, maladaptive behaviours, and procedural adherence influence 
 citizen behaviour in real-world situations ⋆  
 ✨ skills: behavioural coding, data cleaning, first-order markov chain, visualisation  
-🔗 [view project](LINK) 
+🔗 [view project](https://github.com/Andro1meda/Police-in-Practice-Project/tree/main) 
 
 
 🎀 **Pet Ownership, Mental Health, and Well-Being**  
