@@ -32,6 +32,7 @@ with a focus on **clean analysis, clear visuals, and real-world insights** ✨
 - R (tidyverse, dplyr, ggplot2)
 - Python (pandas, numpy, matplotlib, seaborne, sci-kit learn)
 - SQL (querying & joins)
+- Excel (cleaning, mathematical functions, spreadsheets)
 
 🧁 **methods**
 - data cleaning & wrangling  
