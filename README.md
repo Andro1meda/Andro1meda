@@ -53,7 +53,7 @@ with a focus on **clean analysis, clear visuals, and real-world insights** ✨
 ## 💻 featured projects 💻
 
 🎀 **Decision Tree Classifier: Custom vs Scikit-learn Comparison**  
-⋆ This project is a MSc project for a "Programming for Data Scientists" modules, implementing a custom decision-tree model and comparing it against Scikit-Learn's built-in model through evaluating computational and machine learning performance metrics ⋆  
+⋆ This project is a MSc assignmet for the _"Programming for Data Scientists"_ module, implementing a custom decision-tree model and comparing it against Scikit-Learn's built-in model through evaluating computational and machine learning performance metrics ⋆  
 ✨ skills: decision trees, test cases, ML, statistical tests, python  
 🔗 [view project](https://github.com/Andro1meda/custom-decision-tree-project/tree/main)
 
