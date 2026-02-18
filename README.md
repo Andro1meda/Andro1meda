@@ -52,6 +52,13 @@ with a focus on **clean analysis, clear visuals, and real-world insights** ✨
 
 ## 💻 featured projects 💻
 
+🎀 **Custom implementation of Decision-Tree classification model against Scikit-Learn**  
+⋆ This project is  
+citizen behaviour in real-world situations ⋆  
+✨ skills:
+🔗 [view project](LINK)
+
+
 🎀 **Policing in Practice: Investigating Police Conduct and Civilian Response Through Body-Worn Video**  
 ⋆ This project is Master's Dissertation, working with the Lancashire Constabulary to explore how procedural justice, maladaptive behaviours, and procedural adherence influence 
 citizen behaviour in real-world situations ⋆  
