@@ -70,6 +70,11 @@ citizen behaviour in real-world situations ⋆
 ✨ skills: EDA, visualisation, regression, correlation  
 🔗 [view project](https://github.com/Andro1meda/pet-ownership-and-wellbeing)
 
+🎀 **Safety vs. Affordability: A London UK Borough Perspective**  
+⋆ This project explores the relationship between safety and housing affordability across London boroughs, focusing on how these factors influence residential decision-making. By analysing variations in crime rates and property costs, it identifies areas that reflect different trade-offs between affordability and safety. The goal is to support more informed housing choices by providing a data-driven comparison of London boroughs. ⋆  
+✨ skills: EDA, data cleaning, SQL analysis, dashboarding, Tableau  
+🔗 [view project](LINK)  
+
 🎀 _More projects to come_...
 
 ---
